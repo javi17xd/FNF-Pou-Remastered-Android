@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pendejos.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pendejos instancia 10000" x="15" y="15" width="2560" height="1321" frameX="0" frameY="-47" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="pendejos instancia 10001" x="2590" y="15" width="2560" height="1339" frameX="0" frameY="-38" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="pendejos instancia 10002" x="5165" y="15" width="2560" height="1352" frameX="0" frameY="-29" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="pendejos instancia 10003" x="15" y="1382" width="2560" height="1376" frameX="0" frameY="-13" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="pendejos instancia 10004" x="2590" y="1382" width="2560" height="1390" frameX="0" frameY="-6" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="pendejos instancia 10005" x="2590" y="1382" width="2560" height="1390" frameX="0" frameY="-6" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="pendejos instancia 10006" x="2590" y="1382" width="2560" height="1390" frameX="0" frameY="-6" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="pendejos instancia 10007" x="5165" y="1382" width="2560" height="1400"/>
+	<SubTexture name="pendejos instancia 10008" x="5165" y="1382" width="2560" height="1400"/>
+	<SubTexture name="pendejos instancia 10009" x="5165" y="1382" width="2560" height="1400"/>
+	<SubTexture name="pendejos instancia 10010" x="5165" y="1382" width="2560" height="1400"/>
+	<SubTexture name="pendejos instancia 10011" x="5165" y="1382" width="2560" height="1400"/>
+</TextureAtlas>

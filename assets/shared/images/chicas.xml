@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="chicas.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="chicas instancia 10000" x="15" y="15" width="1083" height="641" frameX="0" frameY="-24" frameWidth="1083" frameHeight="669"/>
+	<SubTexture name="chicas instancia 10001" x="15" y="15" width="1083" height="641" frameX="0" frameY="-24" frameWidth="1083" frameHeight="669"/>
+	<SubTexture name="chicas instancia 10002" x="1113" y="15" width="1083" height="654" frameX="0" frameY="-14" frameWidth="1083" frameHeight="669"/>
+	<SubTexture name="chicas instancia 10003" x="1113" y="15" width="1083" height="654" frameX="0" frameY="-14" frameWidth="1083" frameHeight="669"/>
+	<SubTexture name="chicas instancia 10004" x="2211" y="15" width="1083" height="665" frameX="0" frameY="-4" frameWidth="1083" frameHeight="669"/>
+	<SubTexture name="chicas instancia 10005" x="2211" y="15" width="1083" height="665" frameX="0" frameY="-4" frameWidth="1083" frameHeight="669"/>
+	<SubTexture name="chicas instancia 10006" x="2211" y="15" width="1083" height="665" frameX="0" frameY="-4" frameWidth="1083" frameHeight="669"/>
+	<SubTexture name="chicas instancia 10007" x="15" y="695" width="1083" height="668" frameX="0" frameY="0" frameWidth="1083" frameHeight="669"/>
+	<SubTexture name="chicas instancia 10008" x="15" y="695" width="1083" height="668" frameX="0" frameY="0" frameWidth="1083" frameHeight="669"/>
+	<SubTexture name="chicas instancia 10009" x="15" y="695" width="1083" height="668" frameX="0" frameY="0" frameWidth="1083" frameHeight="669"/>
+	<SubTexture name="chicas instancia 10010" x="15" y="695" width="1083" height="668" frameX="0" frameY="0" frameWidth="1083" frameHeight="669"/>
+	<SubTexture name="chicas instancia 10011" x="15" y="695" width="1083" height="668" frameX="0" frameY="0" frameWidth="1083" frameHeight="669"/>
+</TextureAtlas>

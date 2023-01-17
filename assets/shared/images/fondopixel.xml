@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fondopixel.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fondopixel0000" x="15" y="15" width="211" height="160"/>
+	<SubTexture name="fondopixel0001" x="15" y="15" width="211" height="160"/>
+	<SubTexture name="fondopixel0002" x="15" y="15" width="211" height="160"/>
+	<SubTexture name="fondopixel0003" x="15" y="15" width="211" height="160"/>
+	<SubTexture name="fondopixel0004" x="15" y="15" width="211" height="160"/>
+	<SubTexture name="fondopixel0005" x="15" y="15" width="211" height="160"/>
+	<SubTexture name="fondopixel0006" x="15" y="15" width="211" height="160"/>
+	<SubTexture name="fondopixel0007" x="15" y="15" width="211" height="160"/>
+	<SubTexture name="fondopixel0008" x="15" y="15" width="211" height="160"/>
+	<SubTexture name="fondopixel0009" x="15" y="15" width="211" height="160"/>
+	<SubTexture name="fondopixel0010" x="15" y="15" width="211" height="160"/>
+	<SubTexture name="fondopixel0011" x="15" y="15" width="211" height="160"/>
+	<SubTexture name="fondopixel0012" x="241" y="15" width="211" height="160"/>
+	<SubTexture name="fondopixel0013" x="241" y="15" width="211" height="160"/>
+	<SubTexture name="fondopixel0014" x="241" y="15" width="211" height="160"/>
+	<SubTexture name="fondopixel0015" x="241" y="15" width="211" height="160"/>
+	<SubTexture name="fondopixel0016" x="241" y="15" width="211" height="160"/>
+	<SubTexture name="fondopixel0017" x="241" y="15" width="211" height="160"/>
+	<SubTexture name="fondopixel0018" x="241" y="15" width="211" height="160"/>
+	<SubTexture name="fondopixel0019" x="241" y="15" width="211" height="160"/>
+	<SubTexture name="fondopixel0020" x="241" y="15" width="211" height="160"/>
+	<SubTexture name="fondopixel0021" x="241" y="15" width="211" height="160"/>
+	<SubTexture name="fondopixel0022" x="241" y="15" width="211" height="160"/>
+	<SubTexture name="fondopixel0023" x="241" y="15" width="211" height="160"/>
+	<SubTexture name="fondopixel0024" x="15" y="190" width="211" height="160"/>
+	<SubTexture name="fondopixel0025" x="15" y="190" width="211" height="160"/>
+	<SubTexture name="fondopixel0026" x="15" y="190" width="211" height="160"/>
+	<SubTexture name="fondopixel0027" x="15" y="190" width="211" height="160"/>
+	<SubTexture name="fondopixel0028" x="15" y="190" width="211" height="160"/>
+	<SubTexture name="fondopixel0029" x="15" y="190" width="211" height="160"/>
+	<SubTexture name="fondopixel0030" x="15" y="190" width="211" height="160"/>
+	<SubTexture name="fondopixel0031" x="15" y="190" width="211" height="160"/>
+	<SubTexture name="fondopixel0032" x="15" y="190" width="211" height="160"/>
+	<SubTexture name="fondopixel0033" x="15" y="190" width="211" height="160"/>
+	<SubTexture name="fondopixel0034" x="15" y="190" width="211" height="160"/>
+	<SubTexture name="fondopixel0035" x="15" y="190" width="211" height="160"/>
+</TextureAtlas>

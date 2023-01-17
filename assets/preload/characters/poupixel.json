@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-50,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "pou-pixel idle"
+		},
+		{
+			"offsets": [
+				-50,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "pou-pixel down"
+		},
+		{
+			"offsets": [
+				-51,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "pou-pixel up"
+		},
+		{
+			"offsets": [
+				-58,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "pou-pixel left"
+		},
+		{
+			"offsets": [
+				-46,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "pou-pixel right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/pou-pixel",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "poupixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-30,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 10
+}

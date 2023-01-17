@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-55,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "PouUP"
+		},
+		{
+			"offsets": [
+				-36,
+				-72
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "PouDown"
+		},
+		{
+			"offsets": [
+				-49,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "PouIdle"
+		},
+		{
+			"offsets": [
+				-37,
+				-64
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "PouLeft"
+		},
+		{
+			"offsets": [
+				-58,
+				-41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "PouRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/poufacha",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "spooky",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

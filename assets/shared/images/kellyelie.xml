@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kellyelie.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kellyelie instancia 10000" x="15" y="15" width="463" height="295" frameX="0" frameY="-26" frameWidth="463" frameHeight="322"/>
+	<SubTexture name="kellyelie instancia 10001" x="15" y="15" width="463" height="295" frameX="0" frameY="-26" frameWidth="463" frameHeight="322"/>
+	<SubTexture name="kellyelie instancia 10002" x="493" y="15" width="463" height="309" frameX="0" frameY="-11" frameWidth="463" frameHeight="322"/>
+	<SubTexture name="kellyelie instancia 10003" x="493" y="15" width="463" height="309" frameX="0" frameY="-11" frameWidth="463" frameHeight="322"/>
+	<SubTexture name="kellyelie instancia 10004" x="15" y="339" width="463" height="318" frameX="0" frameY="-4" frameWidth="463" frameHeight="322"/>
+	<SubTexture name="kellyelie instancia 10005" x="15" y="339" width="463" height="318" frameX="0" frameY="-4" frameWidth="463" frameHeight="322"/>
+	<SubTexture name="kellyelie instancia 10006" x="15" y="339" width="463" height="318" frameX="0" frameY="-4" frameWidth="463" frameHeight="322"/>
+	<SubTexture name="kellyelie instancia 10007" x="493" y="339" width="463" height="320" frameX="0" frameY="0" frameWidth="463" frameHeight="322"/>
+	<SubTexture name="kellyelie instancia 10008" x="493" y="339" width="463" height="320" frameX="0" frameY="0" frameWidth="463" frameHeight="322"/>
+	<SubTexture name="kellyelie instancia 10009" x="493" y="339" width="463" height="320" frameX="0" frameY="0" frameWidth="463" frameHeight="322"/>
+	<SubTexture name="kellyelie instancia 10010" x="493" y="339" width="463" height="320" frameX="0" frameY="0" frameWidth="463" frameHeight="322"/>
+	<SubTexture name="kellyelie instancia 10011" x="493" y="339" width="463" height="320" frameX="0" frameY="0" frameWidth="463" frameHeight="322"/>
+</TextureAtlas>

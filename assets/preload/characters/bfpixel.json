@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-193,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bf-pixel right"
+		},
+		{
+			"offsets": [
+				-205,
+				-2
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "leftfallo"
+		},
+		{
+			"offsets": [
+				-205,
+				-3
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "idle",
+			"loop": false,
+			"name": "bf-pixel idle"
+		},
+		{
+			"offsets": [
+				-205,
+				-2
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "bf-pixel down"
+		},
+		{
+			"offsets": [
+				-204,
+				-3
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singUP",
+			"loop": false,
+			"name": "bf-pixel up"
+		},
+		{
+			"offsets": [
+				-206,
+				-3
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "bf-pixel left"
+		},
+		{
+			"offsets": [
+				-206,
+				-1
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "downfallo"
+		},
+		{
+			"offsets": [
+				-204,
+				-3
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "upfallo"
+		},
+		{
+			"offsets": [
+				-194,
+				-3
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "rightfallo"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "deathConfirm"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "firstDeath"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "deathLoop"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/pixeladin",
+	"position": [
+		-400,
+		300
+	],
+	"healthicon": "bf-crisma",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-100,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

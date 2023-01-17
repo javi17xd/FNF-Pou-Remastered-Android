@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-55,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "PouUP"
+		},
+		{
+			"offsets": [
+				-52,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "PouDOWN"
+		},
+		{
+			"offsets": [
+				-50,
+				-61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "PouIDLE"
+		},
+		{
+			"offsets": [
+				-47,
+				-64
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "PouLEFT"
+		},
+		{
+			"offsets": [
+				-50,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "PouRIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pou",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "mom",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		250,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}

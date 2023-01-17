@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				105,
+				369
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle instancia 1"
+		},
+		{
+			"offsets": [
+				55,
+				296
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "izquierda instancia 1"
+		},
+		{
+			"offsets": [
+				80,
+				306
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "abajo instancia 1"
+		},
+		{
+			"offsets": [
+				64,
+				528
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singUP",
+			"loop": false,
+			"name": "arriba instancia 1"
+		},
+		{
+			"offsets": [
+				-18,
+				352
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "derecha instancia 1"
+		},
+		{
+			"offsets": [
+				40,
+				371
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "dodge",
+			"loop": false,
+			"name": "dodge instancia 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/militarbf",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bfmilitar",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

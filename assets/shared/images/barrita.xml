@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="barrita.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="barrita0000" x="15" y="15" width="559" height="1745" frameX="0" frameY="0" frameWidth="574" frameHeight="1745"/>
+	<SubTexture name="barrita0001" x="15" y="15" width="559" height="1745" frameX="0" frameY="0" frameWidth="574" frameHeight="1745"/>
+	<SubTexture name="barrita0002" x="589" y="15" width="559" height="1745" frameX="-2" frameY="0" frameWidth="574" frameHeight="1745"/>
+	<SubTexture name="barrita0003" x="589" y="15" width="559" height="1745" frameX="-2" frameY="0" frameWidth="574" frameHeight="1745"/>
+	<SubTexture name="barrita0004" x="1163" y="15" width="559" height="1745" frameX="-15" frameY="0" frameWidth="574" frameHeight="1745"/>
+	<SubTexture name="barrita0005" x="1163" y="15" width="559" height="1745" frameX="-15" frameY="0" frameWidth="574" frameHeight="1745"/>
+	<SubTexture name="barrita0006" x="1737" y="15" width="559" height="1745" frameX="-2" frameY="0" frameWidth="574" frameHeight="1745"/>
+	<SubTexture name="barrita0007" x="1737" y="15" width="559" height="1745" frameX="-2" frameY="0" frameWidth="574" frameHeight="1745"/>
+</TextureAtlas>

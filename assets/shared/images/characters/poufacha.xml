@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="poufacha.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PouDown0000" x="15" y="15" width="286" height="222" frameX="-2" frameY="-4" frameWidth="290" frameHeight="226"/>
+	<SubTexture name="PouDown0001" x="316" y="15" width="286" height="216" frameX="-4" frameY="-10" frameWidth="290" frameHeight="226"/>
+	<SubTexture name="PouDown0002" x="617" y="15" width="286" height="213" frameX="-4" frameY="-13" frameWidth="290" frameHeight="226"/>
+	<SubTexture name="PouDown0003" x="617" y="15" width="286" height="213" frameX="-4" frameY="-13" frameWidth="290" frameHeight="226"/>
+	<SubTexture name="PouDown0004" x="918" y="15" width="285" height="217" frameX="-3" frameY="-9" frameWidth="290" frameHeight="226"/>
+	<SubTexture name="PouDown0005" x="918" y="15" width="285" height="217" frameX="-3" frameY="-9" frameWidth="290" frameHeight="226"/>
+	<SubTexture name="PouDown0006" x="1218" y="15" width="286" height="220" frameX="-1" frameY="-6" frameWidth="290" frameHeight="226"/>
+	<SubTexture name="PouDown0007" x="1218" y="15" width="286" height="220" frameX="-1" frameY="-6" frameWidth="290" frameHeight="226"/>
+	<SubTexture name="PouDown0008" x="1519" y="15" width="285" height="226" frameX="0" frameY="0" frameWidth="290" frameHeight="226"/>
+	<SubTexture name="PouDown0009" x="1519" y="15" width="285" height="226" frameX="0" frameY="0" frameWidth="290" frameHeight="226"/>
+	<SubTexture name="PouIdle0000" x="15" y="256" width="270" height="281" frameX="-3" frameY="-7" frameWidth="273" frameHeight="288"/>
+	<SubTexture name="PouIdle0001" x="15" y="256" width="270" height="281" frameX="-3" frameY="-7" frameWidth="273" frameHeight="288"/>
+	<SubTexture name="PouIdle0002" x="300" y="256" width="269" height="283" frameX="-3" frameY="-5" frameWidth="273" frameHeight="288"/>
+	<SubTexture name="PouIdle0003" x="300" y="256" width="269" height="283" frameX="-3" frameY="-5" frameWidth="273" frameHeight="288"/>
+	<SubTexture name="PouIdle0004" x="584" y="256" width="270" height="285" frameX="-1" frameY="-3" frameWidth="273" frameHeight="288"/>
+	<SubTexture name="PouIdle0005" x="584" y="256" width="270" height="285" frameX="-1" frameY="-3" frameWidth="273" frameHeight="288"/>
+	<SubTexture name="PouIdle0006" x="869" y="256" width="270" height="288" frameX="0" frameY="0" frameWidth="273" frameHeight="288"/>
+	<SubTexture name="PouIdle0007" x="869" y="256" width="270" height="288" frameX="0" frameY="0" frameWidth="273" frameHeight="288"/>
+	<SubTexture name="PouIdle0008" x="1154" y="256" width="271" height="287" frameX="0" frameY="-1" frameWidth="273" frameHeight="288"/>
+	<SubTexture name="PouIdle0009" x="1154" y="256" width="271" height="287" frameX="0" frameY="-1" frameWidth="273" frameHeight="288"/>
+	<SubTexture name="PouIdle0010" x="1154" y="256" width="271" height="287" frameX="0" frameY="-1" frameWidth="273" frameHeight="288"/>
+	<SubTexture name="PouIdle0011" x="1154" y="256" width="271" height="287" frameX="0" frameY="-1" frameWidth="273" frameHeight="288"/>
+	<SubTexture name="PouLeft0000" x="1440" y="256" width="273" height="234" frameX="-3" frameY="-2" frameWidth="278" frameHeight="236"/>
+	<SubTexture name="PouLeft0001" x="1728" y="256" width="273" height="234" frameX="-1" frameY="-2" frameWidth="278" frameHeight="236"/>
+	<SubTexture name="PouLeft0002" x="15" y="559" width="273" height="234" frameX="0" frameY="-2" frameWidth="278" frameHeight="236"/>
+	<SubTexture name="PouLeft0003" x="15" y="559" width="273" height="234" frameX="0" frameY="-2" frameWidth="278" frameHeight="236"/>
+	<SubTexture name="PouLeft0004" x="303" y="559" width="273" height="231" frameX="-4" frameY="-5" frameWidth="278" frameHeight="236"/>
+	<SubTexture name="PouLeft0005" x="303" y="559" width="273" height="231" frameX="-4" frameY="-5" frameWidth="278" frameHeight="236"/>
+	<SubTexture name="PouLeft0006" x="591" y="559" width="272" height="235" frameX="-6" frameY="-1" frameWidth="278" frameHeight="236"/>
+	<SubTexture name="PouLeft0007" x="591" y="559" width="272" height="235" frameX="-6" frameY="-1" frameWidth="278" frameHeight="236"/>
+	<SubTexture name="PouLeft0008" x="878" y="559" width="272" height="236" frameX="-6" frameY="0" frameWidth="278" frameHeight="236"/>
+	<SubTexture name="PouLeft0009" x="878" y="559" width="272" height="236" frameX="-6" frameY="0" frameWidth="278" frameHeight="236"/>
+	<SubTexture name="PouRight0000" x="1165" y="559" width="271" height="246" frameX="0" frameY="-11" frameWidth="276" frameHeight="257"/>
+	<SubTexture name="PouRight0001" x="1165" y="559" width="271" height="246" frameX="0" frameY="-11" frameWidth="276" frameHeight="257"/>
+	<SubTexture name="PouRight0002" x="1451" y="559" width="271" height="251" frameX="-3" frameY="-6" frameWidth="276" frameHeight="257"/>
+	<SubTexture name="PouRight0003" x="1451" y="559" width="271" height="251" frameX="-3" frameY="-6" frameWidth="276" frameHeight="257"/>
+	<SubTexture name="PouRight0004" x="1737" y="559" width="271" height="254" frameX="-5" frameY="-3" frameWidth="276" frameHeight="257"/>
+	<SubTexture name="PouRight0005" x="15" y="828" width="271" height="257" frameX="-2" frameY="0" frameWidth="276" frameHeight="257"/>
+	<SubTexture name="PouRight0006" x="15" y="828" width="271" height="257" frameX="-2" frameY="0" frameWidth="276" frameHeight="257"/>
+	<SubTexture name="PouRight0007" x="301" y="828" width="271" height="254" frameX="-1" frameY="-3" frameWidth="276" frameHeight="257"/>
+	<SubTexture name="PouRight0008" x="301" y="828" width="271" height="254" frameX="-1" frameY="-3" frameWidth="276" frameHeight="257"/>
+	<SubTexture name="PouRight0009" x="301" y="828" width="271" height="254" frameX="-1" frameY="-3" frameWidth="276" frameHeight="257"/>
+	<SubTexture name="PouUP0000" x="587" y="828" width="248" height="285" frameX="-4" frameY="-4" frameWidth="252" frameHeight="289"/>
+	<SubTexture name="PouUP0001" x="850" y="828" width="249" height="289" frameX="-1" frameY="0" frameWidth="252" frameHeight="289"/>
+	<SubTexture name="PouUP0002" x="1114" y="828" width="249" height="289" frameX="0" frameY="0" frameWidth="252" frameHeight="289"/>
+	<SubTexture name="PouUP0003" x="1114" y="828" width="249" height="289" frameX="0" frameY="0" frameWidth="252" frameHeight="289"/>
+	<SubTexture name="PouUP0004" x="1378" y="828" width="249" height="286" frameX="-1" frameY="-3" frameWidth="252" frameHeight="289"/>
+	<SubTexture name="PouUP0005" x="1378" y="828" width="249" height="286" frameX="-1" frameY="-3" frameWidth="252" frameHeight="289"/>
+	<SubTexture name="PouUP0006" x="1642" y="828" width="248" height="284" frameX="-3" frameY="-5" frameWidth="252" frameHeight="289"/>
+	<SubTexture name="PouUP0007" x="1642" y="828" width="248" height="284" frameX="-3" frameY="-5" frameWidth="252" frameHeight="289"/>
+	<SubTexture name="PouUP0008" x="15" y="1132" width="248" height="281" frameX="-3" frameY="-8" frameWidth="252" frameHeight="289"/>
+	<SubTexture name="PouUP0009" x="15" y="1132" width="248" height="281" frameX="-3" frameY="-8" frameWidth="252" frameHeight="289"/>
+</TextureAtlas>

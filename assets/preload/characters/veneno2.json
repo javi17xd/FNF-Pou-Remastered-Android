@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				35,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BFidle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				101,
+				85
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BFleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				69,
+				45
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BFdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				129
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BFup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				66
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BFrigh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/veneno2",
+	"position": [
+		100,
+		400
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

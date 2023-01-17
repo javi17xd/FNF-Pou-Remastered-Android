@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="autos.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="autos instancia 10000" x="15" y="15" width="1350" height="300" frameX="0" frameY="-3" frameWidth="1350" frameHeight="317"/>
+	<SubTexture name="autos instancia 10001" x="15" y="15" width="1350" height="300" frameX="0" frameY="-3" frameWidth="1350" frameHeight="317"/>
+	<SubTexture name="autos instancia 10002" x="1380" y="15" width="1350" height="317"/>
+	<SubTexture name="autos instancia 10003" x="1380" y="15" width="1350" height="317"/>
+	<SubTexture name="autos instancia 10004" x="15" y="347" width="1350" height="300" frameX="0" frameY="-3" frameWidth="1350" frameHeight="317"/>
+	<SubTexture name="autos instancia 10005" x="15" y="347" width="1350" height="300" frameX="0" frameY="-3" frameWidth="1350" frameHeight="317"/>
+	<SubTexture name="autos instancia 10006" x="1380" y="347" width="1350" height="317"/>
+	<SubTexture name="autos instancia 10007" x="1380" y="347" width="1350" height="317"/>
+	<SubTexture name="autos instancia 10008" x="15" y="679" width="1350" height="300" frameX="0" frameY="-3" frameWidth="1350" frameHeight="317"/>
+	<SubTexture name="autos instancia 10009" x="15" y="679" width="1350" height="300" frameX="0" frameY="-3" frameWidth="1350" frameHeight="317"/>
+	<SubTexture name="autos instancia 10010" x="1380" y="679" width="1350" height="315" frameX="0" frameY="0" frameWidth="1350" frameHeight="317"/>
+	<SubTexture name="autos instancia 10011" x="1380" y="679" width="1350" height="315" frameX="0" frameY="0" frameWidth="1350" frameHeight="317"/>
+	<SubTexture name="autos instancia 10012" x="15" y="1009" width="1350" height="300" frameX="0" frameY="-3" frameWidth="1350" frameHeight="317"/>
+	<SubTexture name="autos instancia 10013" x="15" y="1009" width="1350" height="300" frameX="0" frameY="-3" frameWidth="1350" frameHeight="317"/>
+	<SubTexture name="autos instancia 10014" x="1380" y="1009" width="1350" height="317"/>
+	<SubTexture name="autos instancia 10015" x="1380" y="1009" width="1350" height="317"/>
+</TextureAtlas>

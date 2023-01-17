@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				73
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "PouIDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				92
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "PouUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				119
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "PouRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				93
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "PouLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				88
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "PouDOWN",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pou2",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "pouviejo",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		290,
+		-220
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

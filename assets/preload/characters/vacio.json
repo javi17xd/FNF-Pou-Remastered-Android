@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-55,
+				-50
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "PouUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				-90
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "PouDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-61
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "PouIDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				-64
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "PouLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-58,
+				-60
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "PouRIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/vacio",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "pouexe",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

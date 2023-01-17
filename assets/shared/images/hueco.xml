@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hueco.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hueco0000" x="15" y="15" width="906" height="742"/>
+	<SubTexture name="hueco0001" x="15" y="15" width="906" height="742"/>
+	<SubTexture name="hueco0002" x="15" y="15" width="906" height="742"/>
+	<SubTexture name="hueco0003" x="15" y="15" width="906" height="742"/>
+	<SubTexture name="hueco0004" x="936" y="15" width="853" height="723" frameX="-28" frameY="-19" frameWidth="906" frameHeight="742"/>
+	<SubTexture name="hueco0005" x="936" y="15" width="853" height="723" frameX="-28" frameY="-19" frameWidth="906" frameHeight="742"/>
+	<SubTexture name="hueco0006" x="1804" y="15" width="853" height="723" frameX="-28" frameY="-19" frameWidth="906" frameHeight="742"/>
+	<SubTexture name="hueco0007" x="1804" y="15" width="853" height="723" frameX="-28" frameY="-19" frameWidth="906" frameHeight="742"/>
+	<SubTexture name="hueco0008" x="2672" y="15" width="906" height="742"/>
+	<SubTexture name="hueco0009" x="2672" y="15" width="906" height="742"/>
+	<SubTexture name="hueco0010" x="15" y="772" width="906" height="742"/>
+	<SubTexture name="hueco0011" x="15" y="772" width="906" height="742"/>
+	<SubTexture name="hueco0012" x="1804" y="15" width="853" height="723" frameX="-28" frameY="-19" frameWidth="906" frameHeight="742"/>
+	<SubTexture name="hueco0013" x="1804" y="15" width="853" height="723" frameX="-28" frameY="-19" frameWidth="906" frameHeight="742"/>
+	<SubTexture name="hueco0014" x="936" y="15" width="853" height="723" frameX="-28" frameY="-19" frameWidth="906" frameHeight="742"/>
+	<SubTexture name="hueco0015" x="936" y="15" width="853" height="723" frameX="-28" frameY="-19" frameWidth="906" frameHeight="742"/>
+</TextureAtlas>

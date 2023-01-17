@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pouexe.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="exeabajo0000" x="15" y="15" width="989" height="843" frameX="-30" frameY="0" frameWidth="1041" frameHeight="865"/>
+	<SubTexture name="exeabajo0001" x="1019" y="15" width="1019" height="849" frameX="0" frameY="0" frameWidth="1041" frameHeight="865"/>
+	<SubTexture name="exeabajo0002" x="2053" y="15" width="1034" height="822" frameX="0" frameY="-33" frameWidth="1041" frameHeight="865"/>
+	<SubTexture name="exeabajo0003" x="3102" y="15" width="1041" height="832" frameX="0" frameY="-33" frameWidth="1041" frameHeight="865"/>
+	<SubTexture name="exeabajo0004" x="3102" y="15" width="1041" height="832" frameX="0" frameY="-33" frameWidth="1041" frameHeight="865"/>
+	<SubTexture name="exeabajo0005" x="3102" y="15" width="1041" height="832" frameX="0" frameY="-33" frameWidth="1041" frameHeight="865"/>
+	<SubTexture name="exeabajo0006" x="3102" y="15" width="1041" height="832" frameX="0" frameY="-33" frameWidth="1041" frameHeight="865"/>
+	<SubTexture name="exeabajo0007" x="3102" y="15" width="1041" height="832" frameX="0" frameY="-33" frameWidth="1041" frameHeight="865"/>
+	<SubTexture name="exeabajo0008" x="3102" y="15" width="1041" height="832" frameX="0" frameY="-33" frameWidth="1041" frameHeight="865"/>
+	<SubTexture name="exeabajo0009" x="3102" y="15" width="1041" height="832" frameX="0" frameY="-33" frameWidth="1041" frameHeight="865"/>
+	<SubTexture name="exeabajo0010" x="3102" y="15" width="1041" height="832" frameX="0" frameY="-33" frameWidth="1041" frameHeight="865"/>
+	<SubTexture name="exeabajo0011" x="3102" y="15" width="1041" height="832" frameX="0" frameY="-33" frameWidth="1041" frameHeight="865"/>
+	<SubTexture name="exearriba0000" x="4158" y="15" width="980" height="954" frameX="0" frameY="-124" frameWidth="983" frameHeight="1081"/>
+	<SubTexture name="exearriba0001" x="5153" y="15" width="980" height="990" frameX="0" frameY="-88" frameWidth="983" frameHeight="1081"/>
+	<SubTexture name="exearriba0002" x="6148" y="15" width="980" height="1080" frameX="-3" frameY="0" frameWidth="983" frameHeight="1081"/>
+	<SubTexture name="exearriba0003" x="6148" y="15" width="980" height="1080" frameX="-3" frameY="0" frameWidth="983" frameHeight="1081"/>
+	<SubTexture name="exearriba0004" x="7143" y="15" width="980" height="1050" frameX="-3" frameY="-31" frameWidth="983" frameHeight="1081"/>
+	<SubTexture name="exearriba0005" x="7143" y="15" width="980" height="1050" frameX="-3" frameY="-31" frameWidth="983" frameHeight="1081"/>
+	<SubTexture name="exearriba0006" x="7143" y="15" width="980" height="1050" frameX="-3" frameY="-31" frameWidth="983" frameHeight="1081"/>
+	<SubTexture name="exearriba0007" x="7143" y="15" width="980" height="1050" frameX="-3" frameY="-31" frameWidth="983" frameHeight="1081"/>
+	<SubTexture name="exearriba0008" x="7143" y="15" width="980" height="1050" frameX="-3" frameY="-31" frameWidth="983" frameHeight="1081"/>
+	<SubTexture name="exearriba0009" x="7143" y="15" width="980" height="1050" frameX="-3" frameY="-31" frameWidth="983" frameHeight="1081"/>
+	<SubTexture name="exearriba0010" x="7143" y="15" width="980" height="1050" frameX="-3" frameY="-31" frameWidth="983" frameHeight="1081"/>
+	<SubTexture name="exearriba0011" x="7143" y="15" width="980" height="1050" frameX="-3" frameY="-31" frameWidth="983" frameHeight="1081"/>
+	<SubTexture name="exederecha0000" x="15" y="1110" width="982" height="939" frameX="0" frameY="0" frameWidth="986" frameHeight="949"/>
+	<SubTexture name="exederecha0001" x="15" y="1110" width="982" height="939" frameX="0" frameY="0" frameWidth="986" frameHeight="949"/>
+	<SubTexture name="exederecha0002" x="1012" y="1110" width="982" height="939" frameX="-4" frameY="0" frameWidth="986" frameHeight="949"/>
+	<SubTexture name="exederecha0003" x="2009" y="1110" width="982" height="949" frameX="-4" frameY="0" frameWidth="986" frameHeight="949"/>
+	<SubTexture name="exederecha0004" x="3006" y="1110" width="982" height="939" frameX="-4" frameY="-10" frameWidth="986" frameHeight="949"/>
+	<SubTexture name="exederecha0005" x="3006" y="1110" width="982" height="939" frameX="-4" frameY="-10" frameWidth="986" frameHeight="949"/>
+	<SubTexture name="exederecha0006" x="3006" y="1110" width="982" height="939" frameX="-4" frameY="-10" frameWidth="986" frameHeight="949"/>
+	<SubTexture name="exederecha0007" x="3006" y="1110" width="982" height="939" frameX="-4" frameY="-10" frameWidth="986" frameHeight="949"/>
+	<SubTexture name="exederecha0008" x="3006" y="1110" width="982" height="939" frameX="-4" frameY="-10" frameWidth="986" frameHeight="949"/>
+	<SubTexture name="exederecha0009" x="3006" y="1110" width="982" height="939" frameX="-4" frameY="-10" frameWidth="986" frameHeight="949"/>
+	<SubTexture name="exederecha0010" x="3006" y="1110" width="982" height="939" frameX="-4" frameY="-10" frameWidth="986" frameHeight="949"/>
+	<SubTexture name="exederecha0011" x="3006" y="1110" width="982" height="939" frameX="-4" frameY="-10" frameWidth="986" frameHeight="949"/>
+	<SubTexture name="exeidle0000" x="4003" y="1110" width="938" height="908" frameX="-12" frameY="-15" frameWidth="950" frameHeight="923"/>
+	<SubTexture name="exeidle0001" x="4003" y="1110" width="938" height="908" frameX="-12" frameY="-15" frameWidth="950" frameHeight="923"/>
+	<SubTexture name="exeidle0002" x="4956" y="1110" width="938" height="897" frameX="-12" frameY="-15" frameWidth="950" frameHeight="923"/>
+	<SubTexture name="exeidle0003" x="5909" y="1110" width="938" height="896" frameX="-12" frameY="0" frameWidth="950" frameHeight="923"/>
+	<SubTexture name="exeidle0004" x="5909" y="1110" width="938" height="896" frameX="-12" frameY="0" frameWidth="950" frameHeight="923"/>
+	<SubTexture name="exeidle0005" x="6862" y="1110" width="936" height="896" frameX="-9" frameY="0" frameWidth="950" frameHeight="923"/>
+	<SubTexture name="exeidle0006" x="15" y="2074" width="945" height="901" frameX="0" frameY="0" frameWidth="950" frameHeight="923"/>
+	<SubTexture name="exeidle0007" x="15" y="2074" width="945" height="901" frameX="0" frameY="0" frameWidth="950" frameHeight="923"/>
+	<SubTexture name="exeidle0008" x="15" y="2074" width="945" height="901" frameX="0" frameY="0" frameWidth="950" frameHeight="923"/>
+	<SubTexture name="exeidle0009" x="15" y="2074" width="945" height="901" frameX="0" frameY="0" frameWidth="950" frameHeight="923"/>
+	<SubTexture name="exeidle0010" x="15" y="2074" width="945" height="901" frameX="0" frameY="0" frameWidth="950" frameHeight="923"/>
+	<SubTexture name="exeidle0011" x="15" y="2074" width="945" height="901" frameX="0" frameY="0" frameWidth="950" frameHeight="923"/>
+	<SubTexture name="exeizquierda0000" x="975" y="2074" width="1085" height="962" frameX="-3" frameY="-26" frameWidth="1100" frameHeight="994"/>
+	<SubTexture name="exeizquierda0001" x="2075" y="2074" width="1088" height="954" frameX="0" frameY="-19" frameWidth="1100" frameHeight="994"/>
+	<SubTexture name="exeizquierda0002" x="3178" y="2074" width="1088" height="980" frameX="0" frameY="0" frameWidth="1100" frameHeight="994"/>
+	<SubTexture name="exeizquierda0003" x="4281" y="2074" width="1087" height="980" frameX="-13" frameY="0" frameWidth="1100" frameHeight="994"/>
+	<SubTexture name="exeizquierda0004" x="4281" y="2074" width="1087" height="980" frameX="-13" frameY="0" frameWidth="1100" frameHeight="994"/>
+	<SubTexture name="exeizquierda0005" x="5383" y="2074" width="1100" height="954" frameX="0" frameY="-23" frameWidth="1100" frameHeight="994"/>
+	<SubTexture name="exeizquierda0006" x="6498" y="2074" width="1100" height="954" frameX="0" frameY="-40" frameWidth="1100" frameHeight="994"/>
+	<SubTexture name="exeizquierda0007" x="6498" y="2074" width="1100" height="954" frameX="0" frameY="-40" frameWidth="1100" frameHeight="994"/>
+	<SubTexture name="exeizquierda0008" x="6498" y="2074" width="1100" height="954" frameX="0" frameY="-40" frameWidth="1100" frameHeight="994"/>
+	<SubTexture name="exeizquierda0009" x="6498" y="2074" width="1100" height="954" frameX="0" frameY="-40" frameWidth="1100" frameHeight="994"/>
+	<SubTexture name="exeizquierda0010" x="6498" y="2074" width="1100" height="954" frameX="0" frameY="-40" frameWidth="1100" frameHeight="994"/>
+	<SubTexture name="exeizquierda0011" x="6498" y="2074" width="1100" height="954" frameX="0" frameY="-40" frameWidth="1100" frameHeight="994"/>
+</TextureAtlas>

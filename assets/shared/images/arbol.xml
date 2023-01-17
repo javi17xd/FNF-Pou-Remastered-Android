@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="arbol.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="arbol0000" x="15" y="15" width="500" height="595"/>
+	<SubTexture name="arbol0001" x="15" y="15" width="500" height="595"/>
+	<SubTexture name="arbol0002" x="15" y="15" width="500" height="595"/>
+	<SubTexture name="arbol0003" x="15" y="15" width="500" height="595"/>
+	<SubTexture name="arbol0004" x="15" y="15" width="500" height="595"/>
+	<SubTexture name="arbol0005" x="530" y="15" width="500" height="595"/>
+	<SubTexture name="arbol0006" x="530" y="15" width="500" height="595"/>
+	<SubTexture name="arbol0007" x="530" y="15" width="500" height="595"/>
+	<SubTexture name="arbol0008" x="530" y="15" width="500" height="595"/>
+	<SubTexture name="arbol0009" x="530" y="15" width="500" height="595"/>
+	<SubTexture name="arbol0010" x="1045" y="15" width="500" height="595"/>
+	<SubTexture name="arbol0011" x="1045" y="15" width="500" height="595"/>
+	<SubTexture name="arbol0012" x="1045" y="15" width="500" height="595"/>
+	<SubTexture name="arbol0013" x="1045" y="15" width="500" height="595"/>
+	<SubTexture name="arbol0014" x="1045" y="15" width="500" height="595"/>
+	<SubTexture name="arbol0015" x="15" y="625" width="500" height="595"/>
+	<SubTexture name="arbol0016" x="15" y="625" width="500" height="595"/>
+	<SubTexture name="arbol0017" x="15" y="625" width="500" height="595"/>
+	<SubTexture name="arbol0018" x="15" y="625" width="500" height="595"/>
+	<SubTexture name="arbol0019" x="15" y="625" width="500" height="595"/>
+</TextureAtlas>

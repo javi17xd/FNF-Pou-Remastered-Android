@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tilin.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tilin0000" x="15" y="15" width="846" height="692" frameX="0" frameY="-3" frameWidth="846" frameHeight="695"/>
+	<SubTexture name="tilin0001" x="15" y="15" width="846" height="692" frameX="0" frameY="-3" frameWidth="846" frameHeight="695"/>
+	<SubTexture name="tilin0002" x="15" y="15" width="846" height="692" frameX="0" frameY="-3" frameWidth="846" frameHeight="695"/>
+	<SubTexture name="tilin0003" x="15" y="15" width="846" height="692" frameX="0" frameY="-3" frameWidth="846" frameHeight="695"/>
+	<SubTexture name="tilin0004" x="876" y="15" width="803" height="695" frameX="-18" frameY="0" frameWidth="846" frameHeight="695"/>
+	<SubTexture name="tilin0005" x="876" y="15" width="803" height="695" frameX="-18" frameY="0" frameWidth="846" frameHeight="695"/>
+	<SubTexture name="tilin0006" x="1694" y="15" width="803" height="695" frameX="-18" frameY="0" frameWidth="846" frameHeight="695"/>
+	<SubTexture name="tilin0007" x="1694" y="15" width="803" height="695" frameX="-18" frameY="0" frameWidth="846" frameHeight="695"/>
+	<SubTexture name="tilin0008" x="2512" y="15" width="846" height="692" frameX="0" frameY="-3" frameWidth="846" frameHeight="695"/>
+	<SubTexture name="tilin0009" x="2512" y="15" width="846" height="692" frameX="0" frameY="-3" frameWidth="846" frameHeight="695"/>
+	<SubTexture name="tilin0010" x="15" y="725" width="846" height="692" frameX="0" frameY="-3" frameWidth="846" frameHeight="695"/>
+	<SubTexture name="tilin0011" x="15" y="725" width="846" height="692" frameX="0" frameY="-3" frameWidth="846" frameHeight="695"/>
+	<SubTexture name="tilin0012" x="1694" y="15" width="803" height="695" frameX="-18" frameY="0" frameWidth="846" frameHeight="695"/>
+	<SubTexture name="tilin0013" x="1694" y="15" width="803" height="695" frameX="-18" frameY="0" frameWidth="846" frameHeight="695"/>
+	<SubTexture name="tilin0014" x="876" y="15" width="803" height="695" frameX="-18" frameY="0" frameWidth="846" frameHeight="695"/>
+	<SubTexture name="tilin0015" x="876" y="15" width="803" height="695" frameX="-18" frameY="0" frameWidth="846" frameHeight="695"/>
+</TextureAtlas>
